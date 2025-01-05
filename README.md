@@ -88,13 +88,14 @@
 
 <br>
 
-<h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
+<h2 align="center">📖 Học, học nữa học mãi ! 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
-    <strong>☕ [FULL STACK] MERN ADVANCED • Lớp học lập trình nâng cao thực tế để đi làm ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | TrungQuanDev</strong>
+  <a href="https://www.youtube.com/watch?v=SoOmth8OUh4" target="_blank">
+    <strong>☕ "Bạn có bao giờ cảm thấy mình không có động lực để học tập, nhưng lại biết rằng mình cần phải làm điều đó?"
+</strong>
   </a>
-</p>
+<!-- </p>
 <p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
 <p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
 <p>
@@ -108,7 +109,7 @@
 </p>
 <a href="https://youtube.com/@trungquandev" target="_blank">
   <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a>
+</a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
