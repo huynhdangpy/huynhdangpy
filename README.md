@@ -65,24 +65,23 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <a href="https://www.facebook.com/profile.php?id=100028898333391" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huynh-facebook" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://youtube.com/@trungquandev" target="blank">
+  <!-- <a href="https://youtube.com/@trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  </a> -->
+  <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  </a> -->
+  <a href="https://www.instagram.com/hinh_kent/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="huynh-instagram" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="conghuynhngt2004@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
+    <a href="https://www.threads.net/@hinh_kent?hl=vi" target="top">
+<img src="data:image/png;base64,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" alt="threads">  </a>
 </div>
 
 <br>
